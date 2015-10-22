@@ -1,0 +1,1020 @@
+
+1. Nippon Ganka Gakkai Zasshi. 2014 Nov;118(11):943-52.
+
+[Impact of anti-VEGF therapy on the cellular microenvironment in retinal
+angiogenesis].
+
+[Article in Japanese]
+
+Nakao S.
+
+Various large-scale studies show the efficacy of anti-vascular endothelial growth
+factor (VEGF) therapy in treatment of retinal diseases. Based on the evidence, it
+is expected that this therapeutic strategy will be used widely for various
+retinal vascular diseases including diabetic retinopathy and retinal vein
+occlusion. Leukocyte infiltration is an important step that occurs during
+angiogenesis in inflammatory diseases. Various studies report that infiltrated
+leukocytes are a prerequisite for retinal angiogenesis, including diabetic
+retinopathy. Furthermore, the fibrovascular membrane (FVM) microenvironment
+consists of stromal components (extracellular matrix, myofibroblasts and
+leukocytes) supported by angiogenesis (endothelial cells and pericytes). The
+activity of proliferative diabetic retinopathy (PDR) is thought to be determined 
+by the angiogenesis-assisted FVM microenvironment status. Recently, we
+investigated whether intravitreal anti-VEGF therapy modulates leukocyte
+infiltration in retinal angiogenesis using the surgically obtained FVM in pars
+plana vitrectomy with or without pretreatment with bevacizumab. The effect of
+anti-VEGF therapy on leukocyte infiltration was also examined with a mouse model 
+of oxygen-induced retinopathy. Moreover, the impact of anti-VEGF therapy on
+endothelial cells, pericytes and myofibroblasts was also examined using the FVM. 
+We could observe that anti-VEGF therapy blocked leukocyte infiltration as well as
+re-entry from the retina. The therapy also could induce the contraction of blood 
+vessels, increasing the pericyte ratio and transforming growth factor-β
+expression in the FVM. Our data indicate anti-VEGF therapy could attain
+anti-inflammation, vessel contraction and vessel maturation, resulting in the
+resolution of retinal edema as well as the prevention of intraoperative
+hemorrhage.
+
+PMID: 25543385  [PubMed - indexed for MEDLINE]
+
+
+2. Prog Retin Eye Res. 2015 Mar;45:111-31. doi: 10.1016/j.preteyeres.2014.12.001.
+Epub 2014 Dec 18.
+
+The unfolded protein response in retinal vascular diseases: implications and
+therapeutic potential beyond protein folding.
+
+Zhang SX(1), Ma JH(2), Bhatta M(3), Fliesler SJ(4), Wang JJ(5).
+
+Author information: 
+(1)Department of Ophthalmology, University at Buffalo, The State University of
+New York, Buffalo, NY, USA; Department of Biochemistry, University at Buffalo,
+The State University of New York, Buffalo, NY, USA; SUNY Eye Institute, Buffalo, 
+NY, USA. Electronic address: xzhang38@buffalo.edu. (2)Department of
+Ophthalmology, University at Buffalo, The State University of New York, Buffalo, 
+NY, USA; Department of Biochemistry, University at Buffalo, The State University 
+of New York, Buffalo, NY, USA; SUNY Eye Institute, Buffalo, NY, USA; State Key
+Laboratory of Ophthalmology, Zhongshan Ophthalmic Center, Sun Yat-sen University,
+Guangzhou, China. (3)Department of Ophthalmology, University at Buffalo, The
+State University of New York, Buffalo, NY, USA; Department of Biochemistry,
+University at Buffalo, The State University of New York, Buffalo, NY, USA; SUNY
+Eye Institute, Buffalo, NY, USA. (4)Department of Ophthalmology, University at
+Buffalo, The State University of New York, Buffalo, NY, USA; Department of
+Biochemistry, University at Buffalo, The State University of New York, Buffalo,
+NY, USA; SUNY Eye Institute, Buffalo, NY, USA; Research Service, Veterans
+Administration Western New York Healthcare System, Buffalo, NY, USA.
+(5)Department of Ophthalmology, University at Buffalo, The State University of
+New York, Buffalo, NY, USA; Department of Biochemistry, University at Buffalo,
+The State University of New York, Buffalo, NY, USA.
+
+Angiogenesis is a complex, step-wise process of new vessel formation that is
+involved in both normal embryonic development as well as postnatal pathological
+processes, such as cancer, cardiovascular disease, and diabetes. Aberrant blood
+vessel growth, also known as neovascularization, in the retina and the choroid is
+a major cause of vision loss in severe eye diseases, such as diabetic
+retinopathy, age-related macular degeneration, retinopathy of prematurity, and
+central and branch retinal vein occlusion. Yet, retinal neovascularization is
+causally and dynamically associated with vasodegeneration, ischemia, and vascular
+remodeling in retinal tissues. Understanding the mechanisms of retinal
+neovascularization is an urgent unmet need for developing new treatments for
+these devastating diseases. Accumulating evidence suggests a vital role for the
+unfolded protein response (UPR) in regulation of angiogenesis, in part through
+coordinating the secretion of pro-angiogenic growth factors, such as VEGF, and
+modulating endothelial cell survival and activity. Herein, we summarize current
+research in the context of endoplasmic reticulum (ER) stress and UPR signaling in
+retinal angiogenesis and vascular remodeling, highlighting potential implications
+of targeting these stress response pathways in the prevention and treatment of
+retinal vascular diseases that result in visual deficits and blindness.
+
+Copyright © 2014 Elsevier Ltd. All rights reserved.
+
+PMCID: PMC4339403 [Available on 2016-03-01]
+PMID: 25529848  [PubMed - indexed for MEDLINE]
+
+
+3. J Ocul Pharmacol Ther. 2014 Dec;30(10):854-8. doi: 10.1089/jop.2014.0082.
+
+Comparison of the release profile and pharmacokinetics of intact and fragmented
+dexamethasone intravitreal implants in rabbit eyes.
+
+Bhagat R(1), Zhang J, Farooq S, Li XY.
+
+Author information: 
+(1)1 Allergan, Inc. , Irvine, California.
+
+PURPOSE: Dexamethasone intravitreal implant (DEX implant, Ozurdex(®); Allergan,
+Inc.) is used to treat noninfectious posterior uveitis and macular edema
+associated with retinal vein occlusion and diabetic retinopathy. Two recently
+published reports of DEX implant fragmentation shortly after injection have
+raised concerns about the potential for faster implant dissolution and elevated
+ocular dexamethasone concentrations. This study compared the in vivo release
+profile and pharmacokinetic behavior of intact and fragmented DEX implants.
+METHODS: DEX implant was surgically implanted as a single unit or fragmented into
+3 pieces in the posterior segment of opposing eyes of 36 New Zealand white
+rabbits. The release of dexamethasone over time from 1-piece and 3-piece
+fragmented implants dissolved in solution in vitro was compared with that from
+the 1-piece and 3-piece fragmented implants placed in the rabbit eyes. In
+addition, dexamethasone concentrations in the vitreous and aqueous humors of each
+eye were measured at 3 h and days 1, 7, 14, 21, and 28. High-performance liquid
+chromatography and liquid chromatography-tandem mass spectrometry were used for
+assays.
+RESULTS: Dexamethasone release from the 1-piece and 3-piece DEX implants in vivo 
+was not different and was consistent with the in vitro release pattern. Moreover,
+the concentration profile of dexamethasone in the vitreous and aqueous humors was
+similar for the 1-piece and 3-piece DEX implants at each time point measured.
+CONCLUSIONS: DEX implant fragmentation neither accelerated its dissolution nor
+increased the dexamethasone concentration delivered at a given time. Accordingly,
+DEX implant fragmentation is unlikely to have clinically significant effects in
+patients.
+
+PMCID: PMC4259187
+PMID: 25411827  [PubMed - indexed for MEDLINE]
+
+
+4. Zhongguo Zhong Yao Za Zhi. 2014 Jun;39(12):2322-5.
+
+[Network pharmacology study of mechanism on xuesaitong injection against retinal 
+vein occlusion].
+
+[Article in Chinese]
+
+Wang LL, Zhao XP, Zhao ZY, Fan XH, Li Z.
+
+Retinal vein occlusion (RVO) is a common clinical disease causing vision loss.
+Risk factors such as diabetes, atherosclerosis are closely associated with RVO.
+Xuesaitong injection is used extensively in clinical treatment of RVO, however
+the mechanism is still unclear. In this study, we investigated the protective
+effect of Xuesaitong injection on RVO rat model. Using a compound-target network 
+of Xuesaitong on anti-RVO constructed by literature mining, we aim to elucidate
+the multi-compound, multi-target effect of Xuesaitong injection. Fifteen
+potential targets of Xuesaitong injection associated with inflammation,
+angiogenesis, apoptosis, and coagulation were identified in this study. VEGF,
+IL-1beta and IL-6, three important targets in the compound-target network were
+further experimentally validated. This study provided experimental evidence for
+Xuesaitong injection being effective in treating RVO and a network view on its
+anti-RVO mode of action through a multi-compound and multiple-target mechanism.
+
+PMID: 25244768  [PubMed - indexed for MEDLINE]
+
+
+5. Graefes Arch Clin Exp Ophthalmol. 2014 Oct;252(10):1593-8. doi:
+10.1007/s00417-014-2719-y. Epub 2014 Jul 22.
+
+Comparison of the efficacy of aflibercept, ranibizumab, and bevacizumab in an
+RPE/choroid organ culture.
+
+Klettner A(1), Recber M, Roider J.
+
+Author information: 
+(1)Department of Ophthalmology, Kiel University Medical Center, Arnold-Heller-Str
+3, Kiel, 24105, Germany, aklettner@auge.uni-kiel.de.
+
+PURPOSE: Anti-VEGF treatment is the therapy of choice in age-related macular
+degeneration and is also applied in diabetic macular edema or retinal vein
+occlusion. Recently, aflibercept has been approved for therapeutic use. In this
+study, we investigate the efficacy of aflibercept in comparison with the
+VEGF-antagonists ranibizumab and bevacizumab in RPE/choroid organ cultures.
+METHODS: RPE/choroid organ cultures were prepared from freshly slaughtered pigs' 
+eyes. Organ cultures were treated with 125 μg/ml aflibercept, ranibizumab, or
+bevacizumab, and the VEGF content of the supernatant was evaluated over the
+course of 7 days. Additionally, the minimal concentration of VEGF inhibition was 
+evaluated in organ cultures, measured after 6 h of application.
+RESULTS: Aflibercept was able to completely inhibit VEGF detection for 6 h at a
+minimal concentration of 0.031 μg/ml, in contrast to bevacizumab (3.9 μg/ml) and 
+ranibizumab (0.244 μg/ml). A statistically significant VEGF inhibition compared
+to control could be found for aflibercept and ranibizumab down to and including
+0.031 μg/ml, while bevacizumab was significantly reduced compared to control down
+to a concentration of 0.244 μg/ml and again at 0.061 μg/ml. Inhibition of VEGF
+after a single aflibercept application of 125 μg/ml could be found over the
+course of 7 days, with some VEGF detectable at the 7th day. In contrast, VEGF was
+detectable after 72 h of ranibizumab treatment and some VEGF could already be
+found 12 h after bevacizumab treatment.
+CONCLUSIONS: In conclusion, aflibercept displays a prolonged VEGF inhibition,
+confirming its effectiveness but also raising concerns about possible side
+effects of long-term usage.
+
+PMID: 25047874  [PubMed - indexed for MEDLINE]
+
+
+6. Br J Ophthalmol. 2014 Oct;98(10):1448-52. doi: 10.1136/bjophthalmol-2014-305105. 
+Epub 2014 Jul 17.
+
+Effects of aflibercept on primary RPE cells: toxicity, wound healing, uptake and 
+phagocytosis.
+
+Klettner A(1), Tahmaz N(1), Dithmer M(1), Richert E(1), Roider J(1).
+
+Author information: 
+(1)Department of Ophthalmology, University of Kiel, University Medical Center,
+Kiel, Germany.
+
+BACKGROUND/AIM: Anti-VEGF treatment is the therapy of choice in age-related
+macular degeneration, and is also applied in diabetic macular oedema or retinal
+vein occlusion. Recently, the fusion protein, aflibercept, has been approved for 
+therapeutic use. In this study, we investigate the effects of aflibercept on
+primary RPE cells.
+METHODS: Primary RPE cells were prepared from freshly slaughtered pigs' eyes. The
+impact of aflibercept on cell viability was investigated with MTT and trypan blue
+exclusion assay. The influence of aflibercept on wound healing was assessed with 
+a scratch assay. Intracellular uptake of aflibercept was investigated in
+immunohistochemistry and its influence on phagocytosis with a phagocytosis assay 
+using opsonised latex beads.
+RESULTS: Aflibercept displays no cytotoxicity on RPE cells but impairs its wound 
+healing ability. It is taken up into RPE cells and can be intracellularly
+detected for at least 7 days. Intracellular aflibercept impairs the phagocytic
+capacity of RPE cells.
+CONCLUSIONS: Aflibercept interferes with the physiology of RPE cells, as it is
+taken up into RPE cells, which is accompanied by a reduction of the phagocytic
+ability. Additionally, it impairs the wound healing capacity of RPE cells. These 
+effects on the physiology of RPE cells may indicate possible side effects.
+
+Published by the BMJ Publishing Group Limited. For permission to use (where not
+already granted under a licence) please go to
+http://group.bmj.com/group/rights-licensing/permissions.
+
+PMID: 25034050  [PubMed - indexed for MEDLINE]
+
+
+7. Am J Pathol. 2014 Sep;184(9):2573-85. doi: 10.1016/j.ajpath.2014.05.018. Epub
+2014 Jul 10.
+
+Alterations of retinal vasculature in cystathionine-β-synthase heterozygous mice:
+a model of mild to moderate hyperhomocysteinemia.
+
+Tawfik A(1), Markand S(1), Al-Shabrawey M(2), Mayo JN(3), Reynolds J(3), Bearden 
+SE(3), Ganapathy V(4), Smith SB(5).
+
+Author information: 
+(1)Department of Cellular Biology and Anatomy, Medical College of Georgia,
+Georgia Regents University, Augusta, Georgia; James and Jean Culver Vision
+Discovery Institute, Georgia Regents University, Augusta, Georgia. (2)James and
+Jean Culver Vision Discovery Institute, Georgia Regents University, Augusta,
+Georgia; Department of Oral Biology and Anatomy, Medical College of Georgia,
+Georgia Regents University, Augusta, Georgia; Department of Ophthalmology,
+Medical College of Georgia, Georgia Regents University, Augusta, Georgia.
+(3)Department of Biological Sciences, Idaho State University, Pocatello, Idaho.
+(4)James and Jean Culver Vision Discovery Institute, Georgia Regents University, 
+Augusta, Georgia; Department of Biochemistry and Molecular Biology, Medical
+College of Georgia, Georgia Regents University, Augusta, Georgia. (5)Department
+of Cellular Biology and Anatomy, Medical College of Georgia, Georgia Regents
+University, Augusta, Georgia; James and Jean Culver Vision Discovery Institute,
+Georgia Regents University, Augusta, Georgia; Department of Ophthalmology,
+Medical College of Georgia, Georgia Regents University, Augusta, Georgia.
+Electronic address: sbsmith@gru.edu.
+
+Mild to moderate hyperhomocysteinemia is prevalent in humans and is implicated in
+neurovascular diseases, including recently in certain retinal diseases. Herein,
+we used hyperhomocysteinemic mice deficient in the Cbs gene encoding
+cystathionine-β-synthase (Cbs(+/-)) to evaluate retinal vascular integrity. The
+Cbs(+/+) (wild type) and Cbs(+/-) (heterozygous) mice (aged 16 to 52 weeks) were 
+subjected to fluorescein angiography and optical coherence tomography to assess
+vasculature in vivo. Retinas harvested for cryosectioning or flat mount
+preparations were subjected to immunofluorescence microscopy to detect blood
+vessels (isolectin-B4), angiogenesis [anti-vascular endothelial growth factor
+(VEGF) and anti-CD105], gliosis [anti-glial fibrillary acidic protein (GFAP)],
+pericytes (anti-neural/glial antigen 2), blood-retinal barrier [anti-zonula
+occludens protein 1 (ZO-1) and anti-occludin], and hypoxia [anti-pimonidazole
+hydrochloride (Hypoxyprobe-1)]. Levels of VEGF, GFAP, ZO-1, and occludin were
+determined by immunoblotting. Results of these analyses showed a mild vascular
+phenotype in young mice, which progressed with age. Fluorescein angiography
+revealed progressive neovascularization and vascular leakage in Cbs(+/-) mice;
+optical coherence tomography confirmed new vessels in the vitreous by 1 year.
+Immunofluorescence microscopy demonstrated vascular patterns consistent with
+ischemia, including a capillary-free zone centrally and new vessels with
+capillary tufts midperipherally in older mice. This was associated with increased
+VEGF, CD105, and GFAP and decreased ZO-1/occludin levels in the Cbs(+/-) retinas.
+Retinal vein occlusion was observed in some Cbs(+/-) mouse retinas. We conclude
+that mild to moderate elevation of homocysteine in Cbs(+/-) mice is accompanied
+by progressive alterations in retinal vasculature characterized by ischemia,
+neovascularization, incompetent blood-retinal barrier, and vascular occlusion.
+
+Copyright © 2014 American Society for Investigative Pathology. Published by
+Elsevier Inc. All rights reserved.
+
+PMCID: PMC4188277
+PMID: 25016930  [PubMed - indexed for MEDLINE]
+
+
+8. Invest Ophthalmol Vis Sci. 2014 Apr 28;55(4):2777-87. doi: 10.1167/iovs.13-13372.
+
+Loss of inner retinal neurons after retinal ischemia in rats.
+
+Schmid H(1), Renner M, Dick HB, Joachim SC.
+
+Author information: 
+(1)Experimental Eye Research Institute, Ruhr University Eye Hospital, Bochum,
+Germany.
+
+PURPOSE: Ischemia is a risk factor for eye diseases like ocular vein occlusion or
+glaucoma. To investigate effects of ischemia-reperfusion (I/R) a lot of different
+animal models are used, studying one or two different cell types, which creates
+heterogeneity of data. The aim of this study was to investigate the function and 
+morphology of the whole retina and different retinal cell types in an I/R model.
+METHODS: I/R was induced by elevating the intraocular pressure in the right eyes 
+of rats. Twenty-one days after ischemia, electroretinogram measurements were
+performed. Changes in layer thickness were investigated. Changes of RGC,
+amacrine-, rod bipolar-, and glia cells as well as presence of apoptosis were
+analyzed immunohistologically.
+RESULTS: A-wave- and b-wave amplitudes were decreased; histology showed a
+reduction of RGC- and inner plexiform layer thickness and a 29% loss of RGCs
+occurred in ischemic eyes (P = 0.016). An increase of apoptotic cells was
+detected in the GCL and INL of ischemic retinas (P < 0.05). Also, a loss of
+cholinergic amacrine cells (control: 11 ± 1 cells/mm, I/R: 4 ± 1 cells/mm, P <
+0.001), but no change in rod bipolar cell numbers was noted.
+CONCLUSIONS: Our study allowed a comparison of the effects of I/R for different
+retinal cell types. Cells in the outer retina seemed to be more resistant to
+ischemic damage compared with cells of the inner retina. We hypothesize that a
+degenerative process, like a secondary wave of apoptosis, occurs 21 days after
+I/R, causing progressive damage in the retina.
+
+PMID: 24699380  [PubMed - indexed for MEDLINE]
+
+
+9. Drugs Today (Barc). 2014 Mar;50(3):239-49. doi: 10.1358/dot.2014.50.3.2103755.
+
+An update on intravitreal implants in use for eye disorders.
+
+Lambiase A(1), Abdolrahimzadeh S(2), Recupero SM(3).
+
+Author information: 
+(1)Organi di Senso Department, Faculty of Medicine and Psychology, NESMOS
+Department, Ophthalmology Unit, University of Rome "Sapienza", Rome, Italy.
+(2)Azienda Policlinico Umberto I, DAI Testa/Collo, Faculty of Medicine and
+Psychology, NESMOS Department, Ophthalmology Unit, University of Rome "Sapienza",
+Rome, Italy. (3)Sant'Andrea Hospital, Faculty of Medicine and Psychology, NESMOS 
+Department, Ophthalmology Unit, University of Rome "Sapienza", Rome, Italy.
+santi.recupero@uniroma1.it.
+
+Advanced biotechnological techniques and new polymers have led to the development
+of many innovative intravitreal drug delivery systems. Some designs are still in 
+an experimental phase while others have gained widespread acceptance and are
+commercially available. Since steroids are a mainstay of therapy for uveitis and 
+macular edema, new intravitreal implants have been developed to provide
+continuous release of corticosteroids over prolonged spans of time with reduced
+systemic adverse effects. Today, three long-acting corticosteroid implants are
+commercially available: the fluocinolone acetonide implants Retisert® and
+Iluvien® and the dexamethasone drug delivery system Ozurdex®. They offer an
+alternative route in the management of macular edema due to uveitis, retinal vein
+occlusion, diabetes and pseudophakia. Their advantage over treatment with steroid
+injections and the anti-vascular endothelial growth factor ranibizumab is the
+long-term control of inflammation and macular edema with a reduced frequency of
+administration. Their potential side effects are cataract and glaucoma,
+therefore, careful patient selection and monitoring is essential. Further studies
+are warranted to define the relative efficacy and indications for each treatment 
+option. The development of new devices is a future challenge in the strive to
+improve drug delivery systems.
+
+Copyright 2014 Prous Science, S.A.U. or its licensors. All rights reserved.
+
+PMID: 24696869  [PubMed - indexed for MEDLINE]
+
+
+10. J Cell Physiol. 2014 Aug;229(8):974-83. doi: 10.1002/jcp.24575.
+
+Interleukin-18 has antipermeablity and antiangiogenic activities in the eye:
+reciprocal suppression with VEGF.
+
+Shen J(1), Choy DF, Yoshida T, Iwase T, Hafiz G, Xie B, Hackett SF, Arron JR,
+Campochiaro PA.
+
+Author information: 
+(1)Department of Ophthalmology, Johns Hopkins University School of Medicine,
+Baltimore, Maryland; Department of Neuroscience, Johns Hopkins University School 
+of Medicine, Baltimore, Maryland.
+
+Interleukin-18 (IL-18) is increased along with IL-1β by activation of the
+inflammasome and has been implicated in inflammatory and autoimmune diseases, but
+its role in the eye is uncertain. In patients with macular edema due to retinal
+vein occlusion, intraocular IL-18 levels increased significantly (P < 0.001)
+after treatment with ranibizumab particularly in patients with high baseline
+IL-18 which correlated with good visual outcome (P < 0.05). In mice with ischemic
+retinopathy, suppression of VEGF caused an increase in IL18 mRNA due to an
+increase in IL-18-positive myeloid cells. VEGF significantly and specifically
+inhibited IL-18 production by myeloid cells stimulated with lipopolysaccharide
+(P < 0.001). Intraocular injection of IL-18 reduced VEGF-induced leakage and
+neovascularization, and reversed VEGF-induced suppression of Claudin5 expression 
+and Claudin 5 labeling of vascular tight junctions. Injection of IL-18 also
+increased expression of Thrombospondin 1 and reduced ischemia-induced retinal
+neovascularization relevant to diabetic retinopathy and subretinal
+neovascularization relevant to neovascular age-related macular degeneration.
+Thus, VEGF and IL-18 suppress each other's production and effects on the
+vasculature suggesting that IL-18 may provide benefit in multiple
+retinal/choroidal vascular diseases.
+
+© 2014 Wiley Periodicals, Inc.
+
+PMCID: PMC4364659
+PMID: 24515951  [PubMed - indexed for MEDLINE]
+
+
+11. Expert Rev Clin Pharmacol. 2014 Mar;7(2):167-80. doi:
+10.1586/17512433.2014.884458. Epub 2014 Feb 3.
+
+Pharmacokinetics, pharmacodynamics and pre-clinical characteristics of ophthalmic
+drugs that bind VEGF.
+
+Stewart MW(1).
+
+Author information: 
+(1)Department of Ophthalmology, Mayo School of Medicine, 4500 San Pablo Rd,
+Jacksonville, 32224 FL, USA.
+
+Drugs that prevent the binding of VEGF to its trans-membrane cognate receptors
+have revolutionized the treatment of the most important chorioretinal vascular
+disorders: exudative age-related macular degeneration, diabetic macular edema,
+and retinal vein occlusions. Pegaptanib, which binds to VEGF165 and longer
+isoforms, ranibizumab and bevacizumab, which bind all VEGF-A isoforms, and
+aflibercept, which binds VEGF-A, VEGF-B, and placental growth factor, all bind
+VEGF165 with high affinity. The drugs have relatively long half-lives (7 to 10
+days) after intravitreal depot injections and clinical durations of action that
+usually exceed 4 weeks. Plasma VEGF concentrations decrease after intravitreal
+injections of bevacizumab and aflibercept because their systemic half-lives are
+extended by their Fc fragments. Extensive in vitro and in vivo testing shows that
+the drugs prevent VEGF-mediated activation of endothelial cells while exhibiting 
+little evidence of toxicity. Further anti-VEGF drug development is on-going.
+
+PMID: 24483136  [PubMed - indexed for MEDLINE]
+
+
+12. J Clin Invest. 2014 Jan;124(1):425-36. doi: 10.1172/JCI69404. Epub 2013 Dec 20.
+
+Melanocyte-secreted fibromodulin promotes an angiogenic microenvironment.
+
+Adini I, Ghosh K, Adini A, Chi ZL, Yoshimura T, Benny O, Connor KM, Rogers MS,
+Bazinet L, Birsner AE, Bielenberg DR, D'Amato RJ.
+
+Comment in
+    J Clin Invest. 2014 Jan;124(1):76-9.
+
+Studies have established that pigmentation can provide strong, protective effects
+against certain human diseases. For example, angiogenesis-dependent diseases such
+as wet age-related macular degeneration and infantile hemangioma are more common 
+in light-skinned individuals of mixed European descent than in African-Americans.
+Here we found that melanocytes from light-skinned humans and albino mice secrete 
+high levels of fibromodulin (FMOD), which we determined to be a potent angiogenic
+factor. FMOD treatment stimulated angiogenesis in numerous in vivo systems,
+including laser-induced choroidal neovascularization, growth factor-induced
+corneal neovascularization, wound healing, and Matrigel plug assays.
+Additionally, FMOD enhanced vascular sprouting during normal retinal development.
+Deletion of Fmod in albino mice resulted in a marked reduction in the amount of
+neovascularization induced by retinal vein occlusion, corneal growth factor
+pellets, and Matrigel plugs. Our data implicate the melanocyte-secreted factor
+FMOD as a key regulator of angiogenesis and suggest an underlying mechanism for
+epidemiological differences between light-skinned individuals of mixed European
+descent and African-Americans. Furthermore, inhibition of FMOD in humans has
+potential as a therapeutic strategy for treating angiogenesis-dependent diseases.
+
+PMCID: PMC3871226
+PMID: 24355922  [PubMed - indexed for MEDLINE]
+
+
+13. Zhonghua Yan Ke Za Zhi. 2013 Sep;49(9):847-50.
+
+[Progress in sustained-release drug delivery system for treatment of posterior
+segment eye diseases].
+
+[Article in Chinese]
+
+Sun SM(1), Cheng LY(2).
+
+Author information: 
+(1)Institute of Ocular Pharmacology, Eye Hospital, Wenzhou Medical College,
+Wenzhou 325027, China. (2)Institute of Ocular Pharmacology, Eye Hospital, Wenzhou
+Medical College, Wenzhou 325027, China. Email: cheng@eyecenter.ucsd.edu.
+
+There is an urgent requirement to find effective therapeutic procedures for the
+treatment of refractory eye diseases of posterior segment such as posterior
+uveitis, proliferative vitreoretinopathy, and macular edema associated with
+diabetes and retinal vein occlusion. Due to systemic side effect developed from
+systemic drug administration and the low efficiency of topical drug
+administration, implantable drug devices for the treatment of posterior segment
+diseases have been explored. In recent years, three different intraocular
+implantable devices (ganciclovir, fluocinolone acetonide and dexamethasone) have 
+been approved by FDA and showed exciting clinical efficacy. However, these
+devices have surgical complications and the drug-related side effects. Recently, 
+transscleral drug delivery to the posterior segment has been investigated.
+Transscleral drug delivery has advantages of large scleral surface area, better
+safety profile, easily drug administration and could evolve into an effective
+route with the use of novel biomaterials and the study of drug delivery methods.
+
+PMID: 24330936  [PubMed - indexed for MEDLINE]
+
+
+14. Graefes Arch Clin Exp Ophthalmol. 2014 Feb;252(2):257-65. doi:
+10.1007/s00417-013-2532-z. Epub 2013 Nov 29.
+
+Effects of arteriolar constriction on retinal gene expression and Müller cell
+responses in a rat model of branch retinal vein occlusion.
+
+Köferl P(1), Hollborn M, Rehak J, Iandiev I, Dukic-Stefanovic S, Wiedemann P,
+Kohen L, Bringmann A, Rehak M.
+
+Author information: 
+(1)Department of Ophthalmology, University of Leipzig, Leipzig, Germany.
+
+BACKGROUND: To investigate the effect of induced arteriolar constriction (AC) on 
+alterations in gene expression of factors implicated in the development of edema 
+in branch retinal vein occlusion (BRVO).
+METHODS: In Brown-Norway rats, BRVO was induced by laser photocoagulation of the 
+veins in one half of the retina. AC of the afferent arterioles was performed
+30 min later. We then determined the expression of Vegfa, Vegfb, Pedf, Kir4.1,
+Aqp4, Aqp1, Il1ß, and Il6 with real-time polymerase chain reaction (RT-PCR) in
+the neuroretina and retinal pigment epithelium (RPE) after 1, 3, and 7 days.
+Immunostaining against GFAP, aquaporin (AQP)-4, and Kir4.1 was performed on days 
+1 and 3.
+RESULTS: BRVO resulted in transient upregulation of Vegfa in the neuroretina on
+day 1. The expressions of Kir4.1, AQP4, and AQP1 were downregulated, and Il1ß and
+Il6 were strongly upregulated, on days 1 and 3. The retinal distribution of GFAP 
+and AQP4 proteins remained unaltered, while the Kir4.1 protein displayed
+redistribution from polarized to uniform retinal distribution. AC accelerated the
+restoration of downregulated Kir4.1, Aqp4, and Aqp1 in the RPE, of Kir4.1 in the 
+neuroretina, and of upregulated Il6 in the neuroretina. AC did not influence the 
+gliotic alterations of Müller cells and the redistribution of the Kir4.1 protein.
+CONCLUSION: Constriction of the afferent artery in the BRVO region accelerated
+the restoration of potassium channels and Il6. These alterations may contribute
+to faster resorption of retinal edema, and may decrease the level of
+inflammation.
+
+PMID: 24292703  [PubMed - indexed for MEDLINE]
+
+
+15. Hum Gene Ther Methods. 2014 Feb;25(1):83-91. doi: 10.1089/hgtb.2013.089. Epub
+2013 Dec 28.
+
+Laser photocoagulation enhances adeno-associated viral vector transduction of
+mouse retina.
+
+Lee SH(1), Colosi P, Lee H, Ohn YH, Kim SW, Kwak HW, Park TK.
+
+Author information: 
+(1)1 Department of Ophthalmology, Soonchunhyang University , College of Medicine,
+Bucheon 420-767, Korea.
+
+Laser photocoagulation is a well-established treatment modality for retinal
+disease. Discrete laser burns can be placed anywhere in the retina, singly or
+multiply, and the burn intensity is controllable. This study investigates the
+effect of prior laser photocoagulation on the retinal transduction properties of 
+intravitreally administered adeno-associated viral (AAV) vectors. C57BL/6J mice
+were subjected to unilateral laser photocoagulation 48 hr before bilateral
+intravitreal injection of self-complementary cytomegaloviral enhanced green
+fluorescent protein (EGFP) vectors packaged in AAV type 2, 5, and 8 capsids. The 
+eyes were enucleated 4 weeks after injection and examined by histochemistry and
+quantitative image analysis. Laser pretreatment resulted in substantially
+increased localized transduction around the burn site for all AAV capsid types.
+Without laser pretreatment, the vectors transduced only ganglion cells (AAV2) or 
+sporadic cells around the optic nerve head (AAV5 and AAV8). Laser pretreatment
+increased AAV2 vector expression throughout the entire retina and focally at the 
+burn site. Transduced cells at the burn site included retinal pigment epithelium 
+(RPE), photoreceptors, Müller cells, inner nuclear layer cells, and retinal
+ganglion cells. The AAV5 vector showed increased RPE transduction at the burn
+site only. The AAV8 vector showed augmented expression in RPE, photoreceptors,
+and Müller cells around the burn site. Migrating RPE cells, present in the neural
+retina near the burn site, were also transduced by all three capsid types as
+evidenced by colocalization of EGFP and cytokeratin. Laser photocoagulation can
+be used to precisely direct AAV vector transduction to discrete locations in the 
+retina. A combination of laser and AAV-mediated gene expression may allow the
+development of improved therapies for diabetic retinopathy, branch and central
+vein occlusion, and age-related macular degeneration.
+
+PMCID: PMC3904656
+PMID: 24191872  [PubMed - indexed for MEDLINE]
+
+
+16. Proc Natl Acad Sci U S A. 2013 Sep 3;110(36):E3425-34. doi:
+10.1073/pnas.1217091110. Epub 2013 Aug 19.
+
+Hypoxic retinal Muller cells promote vascular permeability by HIF-1-dependent
+up-regulation of angiopoietin-like 4.
+
+Xin X(1), Rodrigues M, Umapathi M, Kashiwabuchi F, Ma T, Babapoor-Farrokhran S,
+Wang S, Hu J, Bhutto I, Welsbie DS, Duh EJ, Handa JT, Eberhart CG, Lutty G,
+Semenza GL, Montaner S, Sodhi A.
+
+Author information: 
+(1)Wilmer Eye Institute, Johns Hopkins School of Medicine, Baltimore, MD 21287,
+USA.
+
+Vision loss from ischemic retinopathies commonly results from the accumulation of
+fluid in the inner retina [macular edema (ME)]. Although the precise events that 
+lead to the development of ME remain under debate, growing evidence supports a
+role for an ischemia-induced hyperpermeability state regulated, in part, by VEGF.
+Monthly treatment with anti-VEGF therapies is effective for the treatment of ME
+but results in a major improvement in vision in a minority of patients,
+underscoring the need to identify additional therapeutic targets. Using the
+oxygen-induced retinopathy mouse model for ischemic retinopathy, we provide
+evidence showing that hypoxic Müller cells promote vascular permeability by
+stabilizing hypoxia-inducible factor-1α (HIF-1α) and secreting angiogenic
+cytokines. Blocking HIF-1α translation with digoxin inhibits the promotion of
+endothelial cell permeability in vitro and retinal edema in vivo. Interestingly, 
+Müller cells require HIF--but not VEGF--to promote vascular permeability,
+suggesting that other HIF-dependent factors may contribute to the development of 
+ME. Using gene expression analysis, we identify angiopoietin-like 4 (ANGPTL4) as 
+a cytokine up-regulated by HIF-1 in hypoxic Müller cells in vitro and the
+ischemic inner retina in vivo. ANGPTL4 is critical and sufficient to promote
+vessel permeability by hypoxic Müller cells. Immunohistochemical analysis of
+retinal tissue from patients with diabetic eye disease shows that HIF-1α and
+ANGPTL4 localize to ischemic Müller cells. Our results suggest that ANGPTL4 may
+play an important role in promoting vessel permeability in ischemic retinopathies
+and could be an important target for the treatment of ME.
+
+PMCID: PMC3767527
+PMID: 23959876  [PubMed - indexed for MEDLINE]
+
+
+17. Prog Retin Eye Res. 2013 Sep;36:260-80. doi: 10.1016/j.preteyeres.2013.06.002.
+Epub 2013 Jul 3.
+
+Arginase in retinopathy.
+
+Narayanan SP(1), Rojas M, Suwanpradid J, Toque HA, Caldwell RW, Caldwell RB.
+
+Author information: 
+(1)Vision Discovery Institute, Georgia Regents University, 1459 Laney Walker
+Boulevard, Augusta 30912, USA. pnarayanan@gru.edu
+
+Ischemic retinopathies, such as diabetic retinopathy (DR), retinopathy of
+prematurity and retinal vein occlusion are a major cause of blindness in
+developed nations worldwide. Each of these conditions is associated with early
+neurovascular dysfunction. However, conventional therapies target clinically
+significant macula edema or neovascularization, which occur much later.
+Intra-ocular injections of anti-VEGF show promise in reducing retinal edema, but 
+the effects are usually transient and the need for repeated injections increases 
+the risk of intraocular infection. Laser photocoagulation can control
+pathological neovascularization, but may impair vision and in some patients the
+retinopathy continues to progress. Moreover, neither treatment targets early
+stage disease or promotes repair. This review examines the potential role of the 
+ureahydrolase enzyme arginase as a therapeutic target for the treatment of
+ischemic retinopathy. Arginase metabolizes l-arginine to form proline, polyamines
+and glutamate. Excessive arginase activity reduces the l-arginine supply for
+nitric oxide synthase (NOS), causing it to become uncoupled and produce
+superoxide and less NO. Superoxide and NO react and form the toxic oxidant
+peroxynitrite. The catabolic products of polyamine oxidation and glutamate can
+induce more oxidative stress and DNA damage, both of which can cause cellular
+injury. Studies indicate that neurovascular injury during retinopathy is
+associated with increased arginase expression/activity, decreased NO, polyamine
+oxidation, formation of superoxide and peroxynitrite and dysfunction and injury
+of both vascular and neural cells. Furthermore, data indicate that the cytosolic 
+isoform arginase I (AI) is involved in hyperglycemia-induced dysfunction and
+injury of vascular endothelial cells whereas the mitochondrial isoform arginase
+II (AII) is involved in neurovascular dysfunction and death following hyperoxia
+exposure. Thus, we postulate that activation of the arginase pathway causes
+neurovascular injury by uncoupling NOS and inducing polyamine oxidation and
+glutamate formation, thereby reducing NO and increasing oxidative stress, all of 
+which contribute to the retinopathic process.
+
+Published by Elsevier Ltd.
+
+PMCID: PMC3759622
+PMID: 23830845  [PubMed - indexed for MEDLINE]
+
+
+18. Invest Ophthalmol Vis Sci. 2013 Jul 22;54(7):4910-8. doi: 10.1167/iovs.13-11967.
+
+Intravitreal tenecteplase (metalyse) for acute management of retinal vein
+occlusions.
+
+McAllister IL(1), Vijayasekaran S, Yu DY.
+
+Author information: 
+(1)Lions Eye Institute, Centre for Ophthalmology and Visual Science, University
+of Western Australia, Perth, Australia. ianmcallister@lei.org.au.
+
+PURPOSE: To determine the ability of an intravitreal injection of tenecteplase
+(TNK) to penetrate an intraretinal venous thrombus and its effectiveness in
+thrombolysis in a porcine model of branch retinal vein occlusion (BRVO).
+METHODS: Six pigs (group 1) were anesthetized, and a BRVO was induced
+photothrombotically in the left eye; immediately afterward,
+fluorescence-conjugated TNK (100 μg) was injected into both eyes, with
+enucleation at 24 hours. Retinal penetration was assessed on frozen sections by
+epifluorescence microscopy. A further six pigs (group 2) were anesthetized; BRVO 
+was induced in both eyes, and TNK was injected into the vitreous in the left eye.
+Both eyes were harvested a week later. The area of the lasered site and an area
+away from the burn were dissected and processed in epoxy resin and stained for
+light or transmission electron microscopy. The percentage blockage, clot volume, 
+cytostructure, and extent of thrombolysis by TNK were assessed.
+RESULTS: TNK penetrated the veins in both eyes of group 1 pigs, with more intense
+staining in the eyes with the occlusion. In group 2 eyes, thrombolysis was
+significant in the eyes injected with TNK (P = 0.03); blockage was seen in all
+six untreated eyes and one treated eye. Clot volume was significantly higher in
+untreated eyes (P = 0.028). Percentage blockage varied from 8.5% to 83.9%. Damage
+by TNK to the neural retina was not seen. There was no significant difference in 
+cytostructure between treated and untreated eyes (P = 0.357).
+CONCLUSIONS: TNK was able to penetrate the retinal veins with and without an
+occlusion and effect lysis of BRVO, and did not cause damage to the retinal
+tissue. Intravitreal TNK may be useful as an acute treatment for RVOs of recent
+onset.
+
+PMID: 23766477  [PubMed - indexed for MEDLINE]
+
+
+19. Exp Eye Res. 2013 Aug;113:105-16. doi: 10.1016/j.exer.2013.05.018. Epub 2013 Jun 
+5.
+
+Neuroprotective effect of minocycline in a rat model of branch retinal vein
+occlusion.
+
+Sun C(1), Li XX, He XJ, Zhang Q, Tao Y.
+
+Author information: 
+(1)Department of Ophthalmology, People's Hospital, Peking University, Beijing,
+China.
+
+Branch retinal vein occlusion (BRVO) is the second most frequent retinal vascular
+disorder. Currently the first-line therapies for BRVO include anti-VEGF and
+dexamethasone implant treatment, however, with direct or indirect damage on
+retinal neurons, it has limited effect in improving patients visual acuity.
+Therefore, novel treatments with neuroprotective effect for BRVO retina were
+expected. Minocycline is a semisynthetic, broad spectrum tetracycline antibiotic 
+with high penetration through the blood brain barrier. The neuroprotective
+effects of minocycline have been shown in various central nervous system (CNS)
+disease. Since both CNS and retina were composed of neurons and glials, it is
+reasonable to expect a neuroprotective effect by minocycline for BRVO retina.
+Therefore, the aim of the present study was to study whether minocycline has
+neuroprotective effect in branch retinal vein occlusion (BRVO) and the possible
+underlying molecular basis. We created BRVO in rats using laser photocoagulation.
+The animals were then randomly divided into 4 groups to evaluate the effect of
+minocycline: group A: minocycline 45 mg/kg intraperitoneal injection (i.p.),
+group B: minocycline 90 mg/kg i.p., group C: normal saline i.p., group D: sham
+injection. Fundus photography and fluorescein angiography (FA) were conducted.
+The changes in thickness of retinal layers were measured with optical coherence
+tomography (OCT) in vivo. We found that retinal edema occurred predominantly in
+the inner retinal layers. Intraperitoneal administration of minocycline
+significantly ameliorated retinal edema in the early stage of BRVO. We performed 
+Full field Electroretinography (ffERG) to evaluate retinal function and found
+that the reduction of b wave amplitude decreased in the combined maximal
+response. The expressional levels of apoptosis related genes (Bax, Bcl-2) and
+inflammation related genes (IL-1 β, TNF α, MCP-1 and CCR2) were measured by
+real-time PCR, the results showed that minocycline treatment upregulated Bcl-2
+expression and inhibits TNF α expression since early stage of BRVO. We also
+performed Hematoxylin-Eosin (HE) and immunostaining for Iba 1 (a microgilal
+marker), active caspase-3, Bax, Bcl-2, IL-1 β, TNF α and found that minocycline
+inhibits retinal microglial activation, prevents retinal ganglion cell loss, and 
+inhibits retinal caspase-3 activation. Thus, our study indicates that systemic
+administration of minocycline ameliorates retinal edema and preserves retinal
+function in the early stage of BRVO possibly via inhibiting microglia activation 
+and protecting RGC from apoptosis.
+
+Copyright © 2013 Elsevier Ltd. All rights reserved.
+
+PMID: 23748101  [PubMed - indexed for MEDLINE]
+
+
+20. Acta Ophthalmol. 2013 Dec;91(8):e603-11. doi: 10.1111/aos.12188. Epub 2013 May
+29.
+
+Correlation with OCT and histology of photocoagulation lesions in patients and
+rabbits.
+
+Koinzer S(1), Saeger M, Hesse C, Portz L, Kleemann S, Schlott K, Brinkmann R,
+Roider J.
+
+Author information: 
+(1)Department of Ophthalmology, University of Kiel, Kiel, GermanyInstitute of
+Biomedical Optics, University of Lübeck, Lübeck, GermanyMedical Laser Center
+Lübeck GmbH, Lübeck, Germany.
+
+PURPOSE: To examine spectral domain optical coherence tomographic (OCT) and
+histological images from comparable retinal photocoagulation lesions in rabbits, 
+and to correlate these images with comparable OCT images from patients.
+METHODS: 508 rabbit lesions were examined by HE-stained paraffin histology. 1019 
+rabbit lesions versus 236 patient lesions were examined by OCT, all at the
+time-points 1 hr, 1 week and 4 weeks after photocoagulation. We analysed 100 μm
+lesions (in humans) and 133 μm lesions (in rabbits) of 200 ms exposures at powers
+titrated from the histological threshold up to intense damage. Lesions were
+matched according to morphological criteria.
+RESULTS: Dome-shaped layer alterations, retinal infiltration by round, pigmented 
+cells, outer nuclear layer interruption, and eventually full thickness retinal
+coagulation are detectable in histology and OCT. Horizontal damage extensions are
+found 1½ times larger in OCT. More intense irradiation was necessary to induce
+comparable layer affection in rabbit OCT as in histology. Restoration of the
+inner retinal layers is only shown in the OCT images. Comparable primary lesions 
+caused more pronounced OCT changes in patients than in rabbits during healing.
+CONCLUSIONS: Optical coherence tomographic images indicate different tissue
+changes than histologic images. After photocoagulation, they show wider
+horizontal damage diameters, but underestimate axial damage particularly during
+healing. Conclusions on retinal restoration should not be drawn from OCT findings
+alone. Retinal recovery after comparable initial lesions appears to be more
+complete in rabbit than in patient OCTs.
+
+© 2013 Acta Ophthalmologica Scandinavica Foundation. Published by John Wiley &
+Sons Ltd.
+
+PMID: 23718709  [PubMed - indexed for MEDLINE]
+
+
+21. Ophthalmic Surg Lasers Imaging Retina. 2013 May-Jun;44(3):268-73. doi:
+10.3928/23258160-20130503-10.
+
+Evaluation of the ability of a photocoagulator to rupture the retinal vein and
+Bruch's membrane for potential vein bypass in retinal vein occlusion.
+
+McAllister IL(1), Vijayasekaran S, Xia W, Yu DY.
+
+Author information: 
+(1)Lions Eye Institute, Centre for Ophthalmology and Visual Science, the
+University of Western Australia, Nedlands, WA 6009, Australia.
+ianmcallister@lei.org.au
+
+BACKGROUND AND OBJECTIVE: To evaluate the laser power required to rupture both
+the retinal vein and Bruch's membrane in a porcine model using a new laser system
+for treatment of retinal vein occlusion.
+MATERIALS AND METHODS: The retina was treated in areas with and without an
+overlying vein. Sections through the laser sites were stained for light and
+transmission electron microscopy. The percentage of the laser sites with rupture 
+of the retinal vein and Bruch's membrane, the degree of tissue damage, and the
+diameter of the rupture in Bruch's membrane were determined.
+RESULTS: The rate of vein rupture was 75% at 3 W, and rupture of Bruch's membrane
+was achieved at all powers tested. The mean diameter of the rupture in Bruch's
+membrane increased with laser power.
+CONCLUSION: The Integre Duo laser system (Ellex Medical Lasers, Adelaide,
+Australia) is capable of rupturing the retinal vein and Bruch's membrane at lower
+powers than prior laser systems.
+
+Copyright 2013, SLACK Incorporated.
+
+PMID: 23676229  [PubMed - indexed for MEDLINE]
+
+
+22. Ann Pharmacother. 2013 Jun;47(6):819-27. doi: 10.1345/aph.1R705. Epub 2013 May
+14.
+
+Aflibercept: newly approved for the treatment of macular edema following central 
+retinal vein occlusion.
+
+Evoy KE(1), Abel SR.
+
+Author information: 
+(1)College of Pharmacy, Purdue University, Lafayette, IN, USA.
+
+OBJECTIVE: To review the pharmacology, efficacy, and safety data available for
+aflibercept and compare the drug to other therapeutic options for treatment of
+macular edema following central retinal vein occlusion (CRVO) to determine its
+likely role in therapy.
+DATA SOURCES: A PubMed search using the terms aflibercept and VEGF trap-eye was
+conducted to identify initial literature sources. No timeframe was used for
+exclusion of older trials. All trials referenced were published between January
+1995 and December 2012.
+STUDY SELECTION AND DATA EXTRACTION: Trials pertaining to oncologic use were
+excluded, as were studies conducted in animals and those written in a language
+other than English. Abstracts of the remaining trials were evaluated for
+determination of relevance to this review. Additional information sources were
+obtained via Internet and PubMed following a review of references.
+DATA SYNTHESIS: While previous Phase 1, 2, and 3 trials for other indications
+(age-related macular degeneration and diabetic macular edema) have shown
+intravitreal injections of aflibercept to be safe and well tolerated in many
+patients, preliminary results from the ongoing COPERNICUS and GALILEO trials
+proved the efficacy of this medication in treating macular edema secondary to
+CRVO. Of the combined 358 patients studied in COPERNICUS and GALILEO, 56% and
+60%, respectively, of the patients receiving aflibercept 2 mg monthly achieved at
+least a 15-letter improvement in best-corrected visual acuity (BCVA) from
+baseline over 6 months compared with just 12% and 22% in the control group (p <
+0.01 for both). Additionally, in COPERNICUS and GALILEO, patients achieved a
+21.3- and 14.7-letter improvement, respectively, in BCVA compared with placebo (p
+< 0.01 for both).
+CONCLUSIONS: In September 2012, aflibercept became the second vascular
+endothelial growth factor (VEGF) inhibitor approved for treatment of macular
+edema secondary to CRVO. While efficacy and safety appear similar to other
+anti-VEGF treatments, the higher potency, binding affinity, and duration of
+action make aflibercept an appealing new option.
+
+PMID: 23673531  [PubMed - indexed for MEDLINE]
+
+
+23. Invest Ophthalmol Vis Sci. 2013 Apr 23;54(4):2853-63. doi: 10.1167/iovs.13-11825.
+
+Mobility experiments with microrobots for minimally invasive intraocular surgery.
+
+Ullrich F(1), Bergeles C, Pokki J, Ergeneman O, Erni S, Chatzipirpiridis G, Pané 
+S, Framme C, Nelson BJ.
+
+Author information: 
+(1)Institute of Robotics and Intelligent Systems, ETH Zurich, Zurich,
+Switzerland.
+
+PURPOSE: To investigate microrobots as an assistive tool for minimally invasive
+intraocular surgery and to demonstrate mobility and controllability inside the
+living rabbit eye.
+METHODS: A system for wireless magnetic control of untethered microrobots was
+developed. Mobility and controllability of a microrobot are examined in different
+media, specifically vitreous, balanced salt solution (BSS), and silicone oil.
+This is demonstrated through ex vivo and in vivo animal experiments.
+RESULTS: The developed electromagnetic system enables precise control of magnetic
+microrobots over a workspace that covers the posterior eye segment. The system
+allows for rotation and translation of the microrobot in different media
+(vitreous, BSS, silicone oil) inside the eye.
+CONCLUSIONS: Intravitreal introduction of untethered mobile microrobots can
+enable sutureless and precise ophthalmic procedures. Ex vivo and in vivo
+experiments demonstrate that microrobots can be manipulated inside the eye.
+Potential applications are targeted drug delivery for maculopathies such as AMD, 
+intravenous deployment of anticoagulation agents for retinal vein occlusion
+(RVO), and mechanical applications, such as manipulation of epiretinal membrane
+peeling (ERM). The technology has the potential to reduce the invasiveness of
+ophthalmic surgery and assist in the treatment of a variety of ophthalmic
+diseases.
+
+PMID: 23518764  [PubMed - indexed for MEDLINE]
+
+
+24. Invest Ophthalmol Vis Sci. 2013 Feb 1;54(2):918-31. doi: 10.1167/iovs.12-11291.
+
+Hyperoxia causes regression of vitreous neovascularization by downregulating
+VEGF/VEGFR2 pathway.
+
+Liu H(1), Zhang W, Xu Z, Caldwell RW, Caldwell RB, Brooks SE.
+
+Author information: 
+(1)Vascular Biology Center, Georgia Health Sciences University, Augusta, USA.
+
+PURPOSE: Neovascularization (NV) is a sight-threatening complication of retinal
+ischemia in diabetes, retinal vein occlusion, and retinopathy of prematurity.
+Current treatment modalities, including laser photocoagulation and repeated
+intraocular injection of VEGF antagonists, are invasive and not always effective,
+and may carry side effects. We studied the use of hyperoxia as an alternative
+therapeutic strategy for regressing established vitreous NV in a mouse model of
+oxygen-induced ischemic retinopathy.
+METHODS: Hyperoxia treatment (HT, 75% oxygen) was initiated on postnatal day
+(P)17 after the onset of vitreous NV. Immunohistochemistry and quantitative PCR
+were used to assess retinal vascular changes in relation to apoptosis, and
+expression of VEGFR2 and inflammatory molecules. Effects of intravitreal
+injections of VEGF-A, VEGF-E, PlGF-1, and VEGF trap were also studied.
+RESULTS: HT selectively reduced NV by 70% within 24 hours. It robustly increased 
+the level of cleaved caspase-3 in the vitreous NV between 6 and 18 hours and
+promoted infiltration of macrophage/microglial cells. The HT-induced apoptosis
+was preceded by a significant reduction in VEGFR2 expression within the NV and an
+increase in VEGFR2 within the surrounding neural tissue. Intravitreal VEGF-A and 
+VEGF-E (VEGFR2 agonist) but not PlGF-1 (VEGFR1 agonist) prevented HT-induced
+apoptosis and regression of NV. In contrast, VEGF trap and VEGFR2 blockers
+mimicked the effect of HT. However, intravitreal VEGF trap induced increases in
+inflammatory molecules while HT did not have such unwanted effect.
+CONCLUSIONS: HT may be clinically useful to specifically treat proliferative NV
+in ischemic retinopathy.
+
+PMCID: PMC3564450
+PMID: 23307955  [PubMed - indexed for MEDLINE]
+
+
+25. Jpn J Ophthalmol. 2013 Jan;57(1):120-5. doi: 10.1007/s10384-012-0213-9. Epub 2012
+Nov 15.
+
+Possible implications of acid-sensing ion channels in ischemia-induced retinal
+injury in rats.
+
+Miyake T(1), Nishiwaki A, Yasukawa T, Ugawa S, Shimada S, Ogura Y.
+
+Author information: 
+(1)Department of Ophthalmology, Nagoya City University Graduate School of Medical
+Sciences, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya, Aichi 467-8601, Japan.
+
+BACKGROUND: Retinal ischemia in eyes with diabetic retinopathy and retinal vein
+occlusion leads to local tissue acidosis. Acid-sensing ion channels (ASICs) are
+expressed in photoreceptors and other neurons in the retina, and may play a role 
+in acid-induced cell injury. The purpose of this study was to investigate the
+neuroprotective effects of amiloride, an ASIC blocker, on induced retinal
+ischemia in rats.
+METHODS: Transient retinal ischemia was induced in male Long-Evans rats by the
+temporary ligation of the optic nerve. Just before the induction of ischemia, the
+experimental eyes underwent intravitreal injection of amiloride. On day 7, the
+retinal damage in eyes that underwent amiloride treatment (and in those that did 
+not undergo the treatment) was evaluated by histology and electroretinogram
+(ERG).
+RESULTS: Transient retinal ischemia caused retinal degeneration with thinning of 
+the inner layer of the retina. The blockage of ASICs with amiloride significantly
+prevented retinal degeneration. ERG demonstrated that the reduction in a- and
+b-wave amplitudes induced by the transient retinal ischemia was significantly
+prevented by the application of amiloride.
+CONCLUSIONS: The present study suggests that ASICs might, at least in part, play 
+a pathophysiological role in ischemia-induced neurodegeneration. Blockage of
+ASICs may have a potential neuroprotective effect in ocular ischemic diseases.
+
+PMID: 23152156  [PubMed - indexed for MEDLINE]
+
+
+26. Clin Hemorheol Microcirc. 2013;53(1-2):11-21. doi: 10.3233/CH-2012-1572.
+
+Molecular basis of erythrocyte adhesion to endothelial cells in diseases.
+
+Wautier JL(1), Wautier MP.
+
+Author information: 
+(1)Université Denis Diderot, Paris, France. jlwautier@ints.fr
+
+Red blood cell (RBC) adhesion to endothelium can be studied in static and flow
+conditions. Increased RBC adhesion was first described in sickle cell disease.
+Several molecules were shown to be involved in this phenomenon: VCAM-1, α4β1,
+Lu/BCAM, ICAM-4. In malaria, Plasmodium falciparum erythrocyte membrane protein1 
+binds to ICAM-1, PECAM-1 and facilitates the parasite dissemination. In diabetes 
+mellitus augmented RBC adhesion is correlated to the severity of vascular
+complications. Glycated RBC band3 reacts with the endothelial Receptor for
+Advanced Glycation End products (RAGE). RAGE engagement induced endothelial cell 
+dysfunction. In patients with Polycythemia Vera (PV), the most frequent
+myeloproliferative disorder, constitutive phosphorylation of RBC Lu/BCAM is
+responsible for an increased adhesion to endothelial cell laminin. Retinal vein
+occlusion (RVO) is a common cause of permanent visual loss. Spontaneous growth of
+erythroid precursors was observed in more than 25% of patients. RBC adhesion was 
+enhanced and correlated to phosphatidyl serine (PS) expression on RBC. Anti-PS
+receptor blocked RVO RBC adhesion indicating that the counterpart of RBC PS is PS
+endothelial cell receptor. Erythrocyte adhesion is mediated by different molecule
+abnormalities in different diseases but is associated to a higher risk of
+thrombosis and vascular complications.
+
+PMID: 22941965  [PubMed - indexed for MEDLINE]
+
